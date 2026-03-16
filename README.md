@@ -37,5 +37,3 @@ I am also interested in building technology that can reduce food waste by connec
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/jefferson-pereira-salvador-013583142/)
 - [Email](mailto:jeffersonpsalvador@hotmail.com)
-
-⚡ Fun fact: I worked as a tattoo artist, waiter and delivery driver before moving into tech. I also spent many years skateboarding, which taught me persistence — something that helps a lot when learning to code.
