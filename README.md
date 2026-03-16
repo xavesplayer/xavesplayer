@@ -30,7 +30,7 @@ Before entering the technology field, I worked in different areas including rest
 Today I am focused on building a career in software development and continuing to grow as a self-taught developer.
 
 ## Goals
-One of my long-term goals is to contribute to the development of software that helps researchers analyze data and accelerate the discovery of treatments for diseases.
+One of my long-term goals is to contribute to the development of software that helps researchers analyze data and accelerate the discovery of treatments for diseases. My interest in this area grew stronger after learning about graph databases and NoSQL systems, which sparked a growing curiosity about Data Science.
 
 I am also interested in building technology that can reduce food waste by connecting farmers with surplus production, volunteer cargo-drone networks and communities facing socioeconomic vulnerability.
 
