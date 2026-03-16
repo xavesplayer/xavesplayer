@@ -33,4 +33,4 @@ Today I am focused on building a career in software development and continuing t
 * [LinkedIn](https://www.linkedin.com/in/jefferson-pereira-salvador-013583142/)
 * [Email](mailto:jeffersonpsalvador@hotmail.com)
 
-⚡ Fun fact: I worked as a tattoo artist and delivery driver, always close to programming but never truly motivated to pursue it as a career, until now. Today, I'm addicted to coding.
+⚡ Fun fact: I worked as a tattoo artist and delivery driver before discovering my passion for programming. Today I'm fully focused on building a career in software development.
