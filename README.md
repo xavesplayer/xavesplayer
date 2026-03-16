@@ -33,4 +33,4 @@ Today I am focused on building a career in software development and continuing t
 * [LinkedIn](https://www.linkedin.com/in/jefferson-pereira-salvador-013583142/)
 * [Email](mailto:jeffersonpsalvador@hotmail.com)
 
-⚡ Fun fact: I returned to studying after 10 years away from school through self-directed learning and was later admitted in first place to Software Engineering at UNINTER.
+⚡ Fun fact: I worked as a tattoo artist and delivery driver, always close to programming but never truly motivated to pursue it as a career, until now. Today, I'm addicted to coding.
