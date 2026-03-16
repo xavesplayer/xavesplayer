@@ -17,7 +17,8 @@ Estudante de Engenharia de Software focado em construir aplicações web e apren
 ## Atualmente estudando
 - Fundamentos de JavaScript  
 - Desenvolvimento backend com Node.js  
-- TypeScript  
+- TypeScript
+- Inglês
 
 ## Sobre mim
 Após dez anos afastado da educação formal, voltei a estudar depois que meu filho nasceu.
