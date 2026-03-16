@@ -1,6 +1,6 @@
 # Hi, I'm Jefferson 👋
 
-Web Development student focused on building web applications and learning backend development.
+Software Engineering student focused on building web applications and learning fullstack development.
 
 ## Technologies
 
