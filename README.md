@@ -37,3 +37,5 @@ I am also interested in building technology that can reduce food waste by connec
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/jefferson-pereira-salvador-013583142/)
 - [Email](mailto:jeffersonpsalvador@hotmail.com)
+
+⚡ Fun fact: I spent fifteen years skateboarding, which taught me persistence and resilience, qualities that help a lot when learning to code.
