@@ -30,7 +30,7 @@ Antes de entrar na área de tecnologia, trabalhei em diferentes áreas como rest
 Hoje estou focado em construir uma carreira em desenvolvimento de software e continuar evoluindo como desenvolvedor autodidata.
 
 ## Objetivos
-Um dos meus objetivos de longo prazo é contribuir para o desenvolvimento de softwares que ajudem pesquisadores a analisar dados e acelerar a descoberta de tratamentos para doenças.
+Um dos meus objetivos de longo prazo é contribuir para o desenvolvimento de softwares que ajudem pesquisadores a analisar dados e acelerar a descoberta de tratamentos para doenças. Meu interesse nessa área se fortaleceu após aprender um pouco sobre bancos de dados em grafos e sistemas NoSQL, o que despertou uma crescente curiosidade por Ciência de Dados.
 
 Também tenho interesse em criar tecnologias que ajudem a reduzir o desperdício de alimentos, conectando fazendeiros com excedente de produção, redes voluntárias de drones cargueiros e comunidades em situação de vulnerabilidade socioeconômica.
 
