@@ -22,7 +22,7 @@ Software Engineering student focused on building web applications and learning f
 
 ## About me
 
-After several years away from formal education, I returned to studying after my son was born.
+After ten years away from formal education, I returned to studying after my son was born.
 
 Through **self-directed study**, I completed high school via the ENCCEJA exam, took the ENEM the following year, and was later admitted in **first place** to the Software Engineering program at **UNINTER** for my campus.
 
