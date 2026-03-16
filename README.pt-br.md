@@ -37,5 +37,3 @@ Também tenho interesse em criar tecnologias que ajudem a reduzir o desperdício
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/jefferson-pereira-salvador-013583142/)
 - [Email](mailto:jeffersonpsalvador@hotmail.com)
-
-⚡ Curiosidade: já trabalhei como tatuador, garçom e entregador antes de migrar para a área de tecnologia. Também andei de skate por muitos anos, algo que me ensinou persistência — uma habilidade muito útil para aprender programação.
