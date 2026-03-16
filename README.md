@@ -24,9 +24,9 @@ Software Engineering student focused on building web applications and learning f
 
 After ten years away from formal education, I returned to studying after my son was born.
 
-Through **self-directed study**, I completed high school via the ENCCEJA exam, took the ENEM the following year, and was later admitted in **first place** to the Software Engineering program at **UNINTER** for my campus.
+Through self-directed study, I completed high school via the ENCCEJA exam and took the ENEM the following year. I was later admitted in first place to the Software Engineering program at UNINTER for my campus.
 
-Today I am focused on building a career in software development and continuing to learn as a self-taught developer.
+Today I am focused on building a career in software development and continuing to grow as a self-taught developer.
 
 ## Contact
 
