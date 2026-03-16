@@ -17,7 +17,8 @@ Software Engineering student focused on building web applications and learning b
 ## Currently Learning
 - JavaScript fundamentals  
 - Backend development with Node.js  
-- TypeScript  
+- TypeScript
+- English
 
 ## About Me
 After ten years away from formal education, I returned to studying after my son was born.
