@@ -7,7 +7,7 @@ Estudante de Engenharia de Software focado em construir aplicações web e apren
 ## Tecnologias
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript (aprendendo 47%)
 - Node.js (aprendendo)  
 - TypeScript (aprendendo)
 
