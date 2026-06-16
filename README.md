@@ -7,7 +7,7 @@ Software Engineering student focused on building web applications and learning b
 ## Technologies
 - HTML  
 - CSS  
-- JavaScript (learning 50%)
+- JavaScript (learning)
 - Node.js (learning)  
 - TypeScript (learning)
 
